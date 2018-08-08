@@ -214,9 +214,13 @@
     
 
     <div class="article-style" itemprop="articleBody">
-      <p>Develop Realtime Task Profilers and Network Profilers for a Dispersed Computing platforms (DCP)
-Optimal Scheduling Algorithm for DCPs
-Distributed Scheduler Implementation with Kubernetes.</p>
+      <p>This project is on the cutting edge field of \emph{Dispersed Computing} and focused on leveraging all the available computation resources in the communication path from an end device to a cloud (including processing capable routers) for timely and optimized processing of the data by jointly optimizing the computation costs and the communication overhead costs.  A key challenge of this project is the implementation of a Python-based dispersed computing system that would real-time monitor the network traffic and available computation capable node resources to optimally distribute the execution of a networked set of tasks which can be represented as a Directed Acyclic Graph (DAG) task graph. My main contributions to this project involve but not limited to:</p>
+
+<ul>
+<li>Design and development of a 50 node Raspberry PI 3 cluster with Kubernetes (a docker orchestration tool) support.</li>
+<li>Implementation of a Kubernetes cluster of 100 carefully chosen geographically distributed cloud Virtual Machines from Digital Ocean.</li>
+<li>Development of the Jupiter Orchestrator which is a Kubernetes based open-source customized docker orchestration tool for Dispersed Computing. The Jupiter tool consists of three main components of Dispersed Computing i.e, Profilers (Network and Resource), Scheduler of DAG-based tasks, and CIRCE &ndash; dispatcher of the tasks according to the scheduler outputs and handler of the inter-task communication.</li>
+</ul>
 
     </div>
 
