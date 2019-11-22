@@ -5,8 +5,53 @@
     
     <url>
     
+      <loc>https://iampradiptaghosh.github.io/publication/jupiter_short/</loc>
+      <lastmod>2019-12-09T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://iampradiptaghosh.github.io/publication/caeser/</loc>
+      <lastmod>2019-11-10T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://iampradiptaghosh.github.io/publication/rwsn_survey/</loc>
+      <lastmod>2019-09-19T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://iampradiptaghosh.github.io/publication/arrest_journal/</loc>
+      <lastmod>2019-04-02T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://iampradiptaghosh.github.io/publication/iris/</loc>
       <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://iampradiptaghosh.github.io/project/smartcity/</loc>
+      <lastmod>2018-08-15T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -96,15 +141,6 @@
     <url>
     
       <loc>https://iampradiptaghosh.github.io/publication/circe/</loc>
-      <lastmod>2017-10-13T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://iampradiptaghosh.github.io/publication/rwsn_survey/</loc>
       <lastmod>2017-10-13T00:00:00+00:00</lastmod>
     </url>
     
@@ -375,7 +411,7 @@
     <url>
     
       <loc>https://iampradiptaghosh.github.io/publication_types/1/</loc>
-      <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-12-09T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -385,7 +421,7 @@
     <url>
     
       <loc>https://iampradiptaghosh.github.io/publication_types/2/</loc>
-      <lastmod>2017-11-26T00:00:00+00:00</lastmod>
+      <lastmod>2019-04-02T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -415,7 +451,7 @@
     <url>
     
       <loc>https://iampradiptaghosh.github.io/publication_types/6/</loc>
-      <lastmod>2017-10-13T00:00:00+00:00</lastmod>
+      <lastmod>2019-09-19T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -464,7 +500,7 @@
     <url>
     
       <loc>https://iampradiptaghosh.github.io/tags/iot/</loc>
-      <lastmod>2017-09-27T00:00:00+00:00</lastmod>
+      <lastmod>2018-08-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -484,7 +520,7 @@
     <url>
     
       <loc>https://iampradiptaghosh.github.io/project/</loc>
-      <lastmod>2017-09-27T00:00:00+00:00</lastmod>
+      <lastmod>2018-08-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -494,7 +530,7 @@
     <url>
     
       <loc>https://iampradiptaghosh.github.io/publication_types/</loc>
-      <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+      <lastmod>2019-12-09T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -535,6 +571,16 @@
     
       <loc>https://iampradiptaghosh.github.io/tags/vehicular/</loc>
       <lastmod>2013-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://iampradiptaghosh.github.io/tags/vision/</loc>
+      <lastmod>2018-08-15T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

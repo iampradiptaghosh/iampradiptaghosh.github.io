@@ -226,6 +226,13 @@
           </a>
         </li>
         
+        
+        <li>
+          <a itemprop="sameAs" href="https://publons.com/researcher/3090816/pradipta-ghosh/" target="_blank">
+            <i class="ai ai-publons big-icon"></i>
+          </a>
+        </li>
+        
       </ul>
 
     </div>
@@ -237,7 +244,7 @@
 <h1 id="biography">Biography</h1>
 
 <p>Pradipta is a Post Doctoral Research Scholar in the USC Viterbi Department of Computer Science at the University of Southern California.
-He obtained his PhD in Electrical Engineering from the USC Ming Hsieh Department of Electrical Engineering at the University of Southern California in Aug 2018. He is also an MHI Institute Scholar and a USC Provost Fellow. His research interests are in the areas of Wireless Sensor Networks, Wireless Robotics Networks, Vehicular Networks and Cloud Computing. Pradipta is also a student member of IEEE and ACM research communities and recipient of many prestigious Student Research Travel Grants such MOBICOM 2017 and SEC 2017.</p>
+He obtained his PhD in Electrical Engineering from the USC Ming Hsieh Department of Electrical Engineering at the University of Southern California in Aug 2018. He is an MHI Institute Scholar and a USC Provost Fellow. His current research interests are in the areas of Cyber-Physical Systems, Wireless Sensor Networks, Wireless Robotics Networks, Vehicular Networks and Cloud Computing. Pradipta recieved Electrical and Computer Engineering Best Dissertation Award. He is also a member of IEEE and ACM research communities.</p>
 
 <p>Pradipta completed his Bachelor of Engineering in Electronics and Tele-Communication Engineering in 2012, from Jadavpur University, Kolkata, India. His undergraduate research was recognized by UGC Infrastructure Grant for Undergraduate Research.</p>
 
@@ -324,6 +331,26 @@ He obtained his PhD in Electrical Engineering from the USC Ming Hsieh Department
 
     <div class="row isotope projects-container">
 
+      
+      
+      
+      
+      <div class="col-xs-12 col-sm-6 col-md-4 col-lg-6 project-item isotope-item iot vision">
+        <div class="card">
+          
+          <a href="https://iampradiptaghosh.github.io/project/smartcity/" title="" class="card-image hover-overlay"
+             >
+            <img src="/img/smartcity.jpg" alt="" class="img-responsive">
+          </a>
+          
+          <div class="card-text">
+            <h4><a href="https://iampradiptaghosh.github.io/project/smartcity/" >Sensing in Smart Cities</a></h4>
+            <div class="card-desription">
+              <p></p>
+            </div>
+          </div>
+        </div>
+      </div>
       
       
       
@@ -505,6 +532,223 @@ He obtained his PhD in Electrical Engineering from the USC Ming Hsieh Department
     
 
     <div class="col-md-12">
+      <a href="https://iampradiptaghosh.github.io/publication/jupiter_short/">
+        <img src="/img/dcomp.jpg" class="pub-banner"
+             itemprop="image">
+      </a>
+    </div>
+    <div class="col-md-12">
+
+    
+
+      <h3 class="article-title" itemprop="name">
+        <a href="https://iampradiptaghosh.github.io/publication/jupiter_short/" itemprop="url">Container Orchestration for Dispersed Computing</a>
+      </h3>
+
+      <div class="pub-abstract" itemprop="text">
+        
+        In the era of Internet of Things, there is an increasing demand for networked computing to support the requirements of timeconstrained, compute-intensive distributed applications. We present a container orchestration architecture for dispersed computing, and its implementation in an open source software called Jupiter. The system automates the distribution of computational tasks for complex computational applications described as an Directed Acyclic Graph (DAG) to efficiently distribute the tasks among a set of networked compute nodes and orchestrates the execution of the DAG thereafter. This Kubernetes based container-orchestration system supports both centralized and decentralized scheduling algorithms for optimally mapping the tasks based on information from a range of profilers: network profilers, resource profilers, and execution time profilers.
+        
+      </div>
+
+      <div class="pub-authors" itemprop="author">
+        
+        Pradipta Ghosh, Quynh Nguyen, Bhaskar Krishnamachari
+        
+      </div>
+
+      <div class="pub-publication">
+        In <em>WOC, Middleware</em>,&nbsp;2019.
+      </div>
+
+      <div class="pub-links">
+        
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://iampradiptaghosh.github.io/publication/jupiter_short/">
+  Details
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://anrg.usc.edu/www/wp-content/uploads/2019/10/Jupiter__Camera_Ready.pdf">
+  PDF
+</a>
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://github.com/ANRGUSC/Jupiter">
+  Code
+</a>
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://iampradiptaghosh.github.io/project/dcp/">
+  Project
+</a>
+
+
+
+      </div>
+
+    </div>
+  </div>
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="row">
+
+    
+
+    <div class="col-md-12">
+      <a href="https://iampradiptaghosh.github.io/publication/caeser/">
+        <img src="/img/caeser.gif" class="pub-banner" itemprop="image">
+      </a>
+    </div>
+    <div class="col-md-12">
+
+    
+
+      <h3 class="article-title" itemprop="name">
+        <a href="https://iampradiptaghosh.github.io/publication/caeser/" itemprop="url">Caesar: cross-camera complex activity recognition</a>
+      </h3>
+
+      <div class="pub-abstract" itemprop="text">
+        
+        Detecting activities from video taken with a single camera is an active research area for ML-based machine vision. In this paper, we examine the next research frontier: near real-time detection of complex activities spanning multiple (possibly wireless) cameras, a capability applicable to surveillance tasks. We argue that a system for such complex activity detection must employ a hybrid design: one in which rule-based activity detection must complement neural network based detection. Moreover, to be practical, such a system must scale well to multiple cameras and have low end-to-end latency. Caesar, our edge computing based system for complex activity detection, provides an extensible vocabulary of activities to allow users to specify complex actions in terms of spatial and temporal relationships between actors, objects, and activities. Caesar converts these specifications to graphs, efficiently monitors camera feeds, partitions processing between cameras and the edge cluster, retrieves minimal information from cameras, carefully schedules neural network invocation, and efficiently matches specification graphs to the underlying data in order to detect complex activities. Our evaluations show that Caesar can reduce wireless bandwidth, on-board camera memory, and detection latency by an order of magnitude while achieving good precision and recall for all complex activities on a public multi-camera dataset.
+        
+      </div>
+
+      <div class="pub-authors" itemprop="author">
+        
+        Xiaochen Liu, Pradipta Ghosh, Oytun Ulutan, B.S. Manjunath, Kevin Chan, Ramesh Govindan
+        
+      </div>
+
+      <div class="pub-publication">
+        In <em>Sensys</em>,&nbsp;2019.
+      </div>
+
+      <div class="pub-links">
+        
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://iampradiptaghosh.github.io/publication/caeser/">
+  Details
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://dl.acm.org/citation.cfm?id=3360041">
+  PDF
+</a>
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://github.com/USC-NSL/Caesar/">
+  Code
+</a>
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://iampradiptaghosh.github.io/project/smartcity/">
+  Project
+</a>
+
+
+
+      </div>
+
+    </div>
+  </div>
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="row">
+
+    
+
+    <div class="col-md-12">
+      <a href="https://iampradiptaghosh.github.io/publication/arrest_journal/">
+        <img src="/img/robot_sch.jpg" class="pub-banner" itemprop="image">
+      </a>
+    </div>
+    <div class="col-md-12">
+
+    
+
+      <h3 class="article-title" itemprop="name">
+        <a href="https://iampradiptaghosh.github.io/publication/arrest_journal/" itemprop="url">ARREST: A RSSI Based Approach for Mobile Sensing and Tracking of a Moving Object</a>
+      </h3>
+
+      <div class="pub-abstract" itemprop="text">
+        
+        We present Autonomous Rssi based RElative poSitioning and Tracking (ARREST), a new robotic sensing system for tracking and following a moving, RF-emitting object, which we refer to as the Leader, solely based on signal strength information. Our proposed tracking agent, which we refer to as the TrackBot, uses a single rotating, off-the-shelf, directional antenna, novel angle and relative speed estimation algorithms, and Kalman filtering to continually estimate the relative position of the Leader with decimeter level accuracy (which is comparable to a state-of-the-art multiple access point based RF-localization system) and the relative speed of the Leader with accuracy on the order of 1 m/s. The TrackBot feeds the relative position and speed estimates into a Linear Quadratic Gaussian (LQG) controller to generate a set of control outputs to control the orientation and the movement of the TrackBot. We perform an extensive set of real world experiments with a full-fledged prototype to demonstrate that the TrackBot is able to stay within 5m of the Leader with: (1) more than 99% probability in line of sight scenarios, and (2) more than 75% probability in no line of sight scenarios, when it moves 1.8X faster than the Leader.
+        
+      </div>
+
+      <div class="pub-authors" itemprop="author">
+        
+        Pradipta Ghosh, Jason A Tran, Bhaskar Krishnamachari
+        
+      </div>
+
+      <div class="pub-publication">
+        In <em>IEEE TMC</em>,&nbsp;2019.
+      </div>
+
+      <div class="pub-links">
+        
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://iampradiptaghosh.github.io/publication/arrest_journal/">
+  Details
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/abstract/document/8680705">
+  PDF
+</a>
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://www.youtube.com/watch?v=kbfsYWE_L0o&amp;t=41s">
+  Video
+</a>
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://iampradiptaghosh.github.io/project/rwsn/">
+  Project
+</a>
+
+
+
+      </div>
+
+    </div>
+  </div>
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" itemscope itemtype="http://schema.org/CreativeWork">
+  <div class="row">
+
+    
+
+    <div class="col-md-12">
       <a href="https://iampradiptaghosh.github.io/publication/iris/">
         <img src="/img/irisbot2.png" class="pub-banner" itemprop="image">
       </a>
@@ -570,74 +814,6 @@ He obtained his PhD in Electrical Engineering from the USC Ming Hsieh Department
 
       
     
-      
-        <div class="pub-list-item" itemscope itemtype="http://schema.org/CreativeWork">
-  <div class="row">
-
-    
-
-    <div class="col-md-12">
-      <a href="https://iampradiptaghosh.github.io/publication/arrest/">
-        <img src="/img/robot_sch.jpg" class="pub-banner" itemprop="image">
-      </a>
-    </div>
-    <div class="col-md-12">
-
-    
-
-      <h3 class="article-title" itemprop="name">
-        <a href="https://iampradiptaghosh.github.io/publication/arrest/" itemprop="url">ARREST: A RSSI Based Approach for Mobile Sensing and Tracking of a Moving Object</a>
-      </h3>
-
-      <div class="pub-abstract" itemprop="text">
-        
-        We present Autonomous Rssi based RElative poSitioning and Tracking (ARREST), a new robotic sensing system for tracking and following a moving, RF-emitting object, which we refer to as the Leader, solely based on signal strength information. Our proposed tracking agent, which we refer to as the TrackBot, uses a single rotating, off-the-shelf, directional antenna, novel angle and relative speed estimation algorithms, and Kalman filtering to continually estimate the relative position of the Leader with decimeter level accuracy (which is comparable to a state-of-the-art multiple access point based RF-localization system) and the relative speed of the Leader with accuracy on the order of 1 m/s. The TrackBot feeds the relative position and speed estimates into a Linear Quadratic Gaussian (LQG) controller to generate a set of control outputs to control the orientation and the movement of the TrackBot. We perform an extensive set of real world experiments with a full-fledged prototype to demonstrate that the TrackBot is able to stay within 5m of the Leader with: (1) more than 99% probability in line of sight scenarios, and (2) more than 75% probability in no line of sight scenarios, when it moves 1.8X faster than the Leader.
-        
-      </div>
-
-      <div class="pub-authors" itemprop="author">
-        
-        Pradipta Ghosh, Jason A Tran, Bhaskar Krishnamachari
-        
-      </div>
-
-      <div class="pub-publication">
-        In <em>WiUAV (GLOBECOM)</em>,&nbsp;2017.
-      </div>
-
-      <div class="pub-links">
-        
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://iampradiptaghosh.github.io/publication/arrest/">
-  Details
-</a>
-
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://www.youtube.com/watch?v=kbfsYWE_L0o&amp;t=41s">
-  Video
-</a>
-
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://iampradiptaghosh.github.io/project/rwsn/">
-  Project
-</a>
-
-
-
-      </div>
-
-    </div>
-  </div>
-</div>
-
-      
-    
 
   </div>
 </div>
@@ -675,6 +851,158 @@ He obtained his PhD in Electrical Engineering from the USC Ming Hsieh Department
     
 
     
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Pradipta Ghosh, Quynh Nguyen, Bhaskar Krishnamachari</span>.
+  <span itemprop="name">Container Orchestration for Dispersed Computing</span>.
+  In <em>WOC, Middleware</em>,&nbsp;2019.
+  <p>
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://iampradiptaghosh.github.io/publication/jupiter_short/">
+  Details
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://anrg.usc.edu/www/wp-content/uploads/2019/10/Jupiter__Camera_Ready.pdf">
+  PDF
+</a>
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://github.com/ANRGUSC/Jupiter">
+  Code
+</a>
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://iampradiptaghosh.github.io/project/dcp/">
+  Project
+</a>
+
+
+</p>
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Xiaochen Liu, Pradipta Ghosh, Oytun Ulutan, B.S. Manjunath, Kevin Chan, Ramesh Govindan</span>.
+  <span itemprop="name">Caesar: cross-camera complex activity recognition</span>.
+  In <em>Sensys</em>,&nbsp;2019.
+  <p>
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://iampradiptaghosh.github.io/publication/caeser/">
+  Details
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://dl.acm.org/citation.cfm?id=3360041">
+  PDF
+</a>
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://github.com/USC-NSL/Caesar/">
+  Code
+</a>
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://iampradiptaghosh.github.io/project/smartcity/">
+  Project
+</a>
+
+
+</p>
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Pradipta Ghosh, Andrea Gasparri, Jiong Jin, Bhaskar Krishnamachari</span>.
+  <span itemprop="name">Robotic Wireless Sensor Networks</span>.
+  In <em>Mission-Oriented Sensor Networks and Systems: Art and Science</em>, Springer,&nbsp;2019.
+  <p>
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://iampradiptaghosh.github.io/publication/rwsn_survey/">
+  Details
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://link.springer.com/chapter/10.1007/978-3-319-92384-0_16">
+  PDF
+</a>
+
+
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://iampradiptaghosh.github.io/project/rwsn/">
+  Project
+</a>
+
+
+</p>
+</div>
+
+      
+    
+      
+        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
+  <span itemprop="author">
+    Pradipta Ghosh, Jason A Tran, Bhaskar Krishnamachari</span>.
+  <span itemprop="name">ARREST: A RSSI Based Approach for Mobile Sensing and Tracking of a Moving Object</span>.
+  In <em>IEEE TMC</em>,&nbsp;2019.
+  <p>
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://iampradiptaghosh.github.io/publication/arrest_journal/">
+  Details
+</a>
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://ieeexplore.ieee.org/abstract/document/8680705">
+  PDF
+</a>
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://www.youtube.com/watch?v=kbfsYWE_L0o&amp;t=41s">
+  Video
+</a>
+
+
+
+
+<a class="btn btn-primary btn-outline btn-xs" href="https://iampradiptaghosh.github.io/project/rwsn/">
+  Project
+</a>
+
+
+</p>
+</div>
+
+      
     
       
         <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
@@ -894,158 +1222,6 @@ He obtained his PhD in Electrical Engineering from the USC Ming Hsieh Department
 
       
     
-      
-        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-  <span itemprop="author">
-    Pradipta Ghosh, Jason A. Tran, Daniel Dsouza, Nora Ayanian, Bhaskar Krishnamachari</span>.
-  <span itemprop="name">ROMANO: A Novel Overlay Lightweight Communication Protocol for Unified Control and Sensing of a Network of Robots</span>.
-  In <em>ARXIV</em>,&nbsp;2017.
-  <p>
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://iampradiptaghosh.github.io/publication/romano/">
-  Details
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/abs/1709.07555">
-  PDF
-</a>
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="http://tiny.cc/anrg-romano">
-  Video
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://github.com/ANRGUSC/ROMANO">
-  Code
-</a>
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://iampradiptaghosh.github.io/project/rwsn/">
-  Project
-</a>
-
-
-</p>
-</div>
-
-      
-    
-      
-        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-  <span itemprop="author">
-    Pradipta Ghosh, Jenny Xie, Bhaskar Krishnamachari</span>.
-  <span itemprop="name">miniRadar: A Low Power IEEE 802.15.4 Transceiver Based Implementation of Bistatic Radar</span>.
-  In <em>HotWireless&rsquo;17</em>,&nbsp;2017.
-  <p>
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://iampradiptaghosh.github.io/publication/miniradar/">
-  Details
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="http://anrg.usc.edu/www/papers/miniradar.pdf">
-  PDF
-</a>
-
-
-
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://iampradiptaghosh.github.io/project/rwsn/">
-  Project
-</a>
-
-
-</p>
-</div>
-
-      
-    
-      
-        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-  <span itemprop="author">
-    Aleksandra Knezevic, Quynh Nguyen, Jason A. Tran, Pradipta Ghosh, Pranav Sakulkar, Bhaskar Krishnamachari, Murali Annavaram</span>.
-  <span itemprop="name">DEMO: CIRCE -- A runtime scheduler for DAG-based dispersed computing</span>.
-  In <em>SEC 2017</em>,&nbsp;2017.
-  <p>
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://iampradiptaghosh.github.io/publication/circe/">
-  Details
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="http://anrg.usc.edu/www/papers/CIRCE__A_runtime_scheduler_for_DAG_based_dispersed_computing.pdf">
-  PDF
-</a>
-
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://github.com/ANRGUSC/CIRCE">
-  Code
-</a>
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://iampradiptaghosh.github.io/project/dcp/">
-  Project
-</a>
-
-
-</p>
-</div>
-
-      
-    
-      
-        <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
-  <span itemprop="author">
-    Pradipta Ghosh, Andrea Gasparri, Jiong Jin, Bhaskar Krishnamachari</span>.
-  <span itemprop="name">Robotic Wireless Sensor Networks</span>.
-  In <em>The Philosophy of Mission-Oriented Wireless Sensor Networks</em>, Springer.,&nbsp;2017.
-  <p>
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://iampradiptaghosh.github.io/publication/rwsn_survey/">
-  Details
-</a>
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://arxiv.org/abs/1705.05415">
-  PDF
-</a>
-
-
-
-
-
-
-<a class="btn btn-primary btn-outline btn-xs" href="https://iampradiptaghosh.github.io/project/rwsn/">
-  Project
-</a>
-
-
-</p>
-</div>
-
-      
-    
 
   </div>
 </div>
@@ -1218,7 +1394,7 @@ He obtained his PhD in Electrical Engineering from the USC Ming Hsieh Department
       
       <li>
         <i class="fa-li fa fa-map-marker fa-2x" aria-hidden="true"></i>
-        <span id="person-address" itemprop="address">Ronad Tutor Hall 418, University of Southern California, Los Angeles California, 90089, USA</span>
+        <span id="person-address" itemprop="address">SAL 227, University of Southern California, Los Angeles California, 90089, USA</span>
       </li>
       
 
