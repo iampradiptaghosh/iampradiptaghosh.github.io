@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rwsn | Pradipta Ghosh</title>
+    <link>https://iampradiptaghosh.github.io/tag/rwsn/</link>
+      <atom:link href="https://iampradiptaghosh.github.io/tag/rwsn/index.xml" rel="self" type="application/rss+xml" />
+    <description>rwsn</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Thu, 05 Jul 2018 10:51:51 -0700</lastBuildDate>
+    <image>
+      <url>https://iampradiptaghosh.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>rwsn</title>
+      <link>https://iampradiptaghosh.github.io/tag/rwsn/</link>
+    </image>
+    
+    <item>
+      <title>Wireless Robotic IoT Systems</title>
+      <link>https://iampradiptaghosh.github.io/project/rwsn/</link>
+      <pubDate>Thu, 05 Jul 2018 10:51:51 -0700</pubDate>
+      <guid>https://iampradiptaghosh.github.io/project/rwsn/</guid>
+      <description>&lt;p&gt;This umbrella projects includes many sub-projects as follows.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Survey of Networking Issues and Potential areas of Research in a Wireless Network of Mobile Robots&lt;/strong&gt;
+&lt;img src=&#34;https://iampradiptaghosh.github.io/img/robo_sensor_illustration_new.png&#34; alt=&#34;robot&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;ARREST&amp;ndash;A RSSI Based Approach for Relative Positioning and  Tracking of a Moving Object:&lt;/strong&gt;
+Developed a new robotic sensing system for tracking/following a moving, RF-emitting object (Leader) solely based on signal strength information. The tracking robot (TrackBot) uses a single rotating, off-the-shelf, directional antenna, novel angle and relative speed estimation algorithms, and Kalman filtering.  A full-fledged prototype system is built for extensive real-world evaluation and to demonstrate the performance.
+&lt;img src=&#34;https://iampradiptaghosh.github.io/img/robot_sch.jpg&#34; alt=&#34;robot&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;IRIS&amp;ndash;A Robotic Wireless Networking Testbed:&lt;/strong&gt;
+Designed the architecture of the Intelligent Robotic IoT System (IRIS) testbed which is envisioned as an in-house, cutting-edge, open source testbed for robotic network related experimentation.
+Co-lead a team of six researchers to build the current version of the testbed that consists of 7 mobile easily configurable Pololu 3pi robotic nodes with IEEE 802.15.4 connectivity via an onboard OpenMote and Mbed LPC1768 devices.
+&lt;img src=&#34;https://iampradiptaghosh.github.io/img/iris.jpg&#34; alt=&#34;robot&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;ROMANO&amp;ndash;Overlay Lightweight Communication Protocol for Unified Control and Sensing of a Network of Robots:&lt;/strong&gt;
+Developed and implemented (on the IRIS testbed) the ROMANO protocol, an end-to-end overlay communication protocol for a simple unified abstraction of real-time data sharing and robotic control in a network of robots. This is a lightweight, application layer publish-subscribe protocol that is an alternative to the XML-RPC  based bandwidth-heavy communication in Robot Operating System (ROS).
+&lt;img src=&#34;https://iampradiptaghosh.github.io/img/romano_archi.jpg&#34; alt=&#34;router&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Robotic Router Placement Optimization Based on Practical Communication Model Including Interference:&lt;/strong&gt;
+Theoretically modeled and simulated an optimized robotic router placement algorithm that incorporates the effect of RF interference.                      &lt;br&gt;
+Moreover, modeled certain theoretical performance bounds of such systems such as interference power bound.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://iampradiptaghosh.github.io/img/robo_router_illustration_new.jpg&#34; alt=&#34;router&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

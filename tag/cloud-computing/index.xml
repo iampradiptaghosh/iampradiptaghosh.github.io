@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cloud-computing | Pradipta Ghosh</title>
+    <link>https://iampradiptaghosh.github.io/tag/cloud-computing/</link>
+      <atom:link href="https://iampradiptaghosh.github.io/tag/cloud-computing/index.xml" rel="self" type="application/rss+xml" />
+    <description>cloud-computing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Fri, 05 Jul 2019 10:51:31 -0700</lastBuildDate>
+    <image>
+      <url>https://iampradiptaghosh.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>cloud-computing</title>
+      <link>https://iampradiptaghosh.github.io/tag/cloud-computing/</link>
+    </image>
+    
+    <item>
+      <title>Dispersed Mobile Computing for Edge Devices</title>
+      <link>https://iampradiptaghosh.github.io/project/dcp/</link>
+      <pubDate>Fri, 05 Jul 2019 10:51:31 -0700</pubDate>
+      <guid>https://iampradiptaghosh.github.io/project/dcp/</guid>
+      <description>&lt;p&gt;This project is on the cutting edge field of &lt;em&gt;Dispersed Computing&lt;/em&gt; and focused on leveraging all the available computation resources in the communication path from an end device to a cloud (including processing capable routers) for timely and optimized processing of the data by jointly optimizing the computation costs and the communication overhead costs.  A key challenge of this project is the implementation of a Python-based dispersed computing system that would real-time monitor the network traffic and available computation capable node resources to optimally distribute the execution of a networked set of tasks which can be represented as a Directed Acyclic Graph (DAG) task graph. My main contributions to this project involve but not limited to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Design and development of a 50 node Raspberry PI 3 cluster with Kubernetes (a docker orchestration tool) support.&lt;/li&gt;
+&lt;li&gt;Implementation of a Kubernetes cluster of 100 carefully chosen geographically distributed cloud Virtual Machines from Digital Ocean.&lt;/li&gt;
+&lt;li&gt;Development of the Jupiter Orchestrator which is a Kubernetes based open-source customized docker orchestration tool for Dispersed Computing. The Jupiter tool consists of three main components of Dispersed Computing i.e, Profilers (Network and Resource), Scheduler of DAG-based tasks, and CIRCE &amp;ndash; dispatcher of the tasks according to the scheduler outputs and handler of the inter-task communication.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Integration of Bare-metal Servers with Programmable Fabric </title>
+      <link>https://iampradiptaghosh.github.io/project/internship_cisco/</link>
+      <pubDate>Sun, 05 Jul 2015 10:51:40 -0700</pubDate>
+      <guid>https://iampradiptaghosh.github.io/project/internship_cisco/</guid>
+      <description>&lt;p&gt;Collaborated with the lead system architect and other engineers to&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Integrate bare-metal servers with OpenStack for CISCO programmable fabric. This involved the design of a new system architecture for seamless deployment of bare-metals side-by-side with the Virtual Machines. This system was converted into a product later on.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Participate in the discussions of the Openstack open-source community and their chat rooms to determine the right course of actions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cloud Computing and Application Offloading for Vehicular Networks</title>
+      <link>https://iampradiptaghosh.github.io/project/internship_gm/</link>
+      <pubDate>Fri, 05 Jul 2013 10:51:45 -0700</pubDate>
+      <guid>https://iampradiptaghosh.github.io/project/internship_gm/</guid>
+      <description>&lt;p&gt;Collaborated with the lead research scientist and other engineers to&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Investigate the opportunities and applicability of cloud computing and application offloading in a vehicular network.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Develop a simple system to demonstrate a proof of concept application of computation offloading in vehicular networks.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

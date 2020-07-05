@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wsn | Pradipta Ghosh</title>
+    <link>https://iampradiptaghosh.github.io/tag/wsn/</link>
+      <atom:link href="https://iampradiptaghosh.github.io/tag/wsn/index.xml" rel="self" type="application/rss+xml" />
+    <description>wsn</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Wed, 05 Jul 2017 10:52:22 -0700</lastBuildDate>
+    <image>
+      <url>https://iampradiptaghosh.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>wsn</title>
+      <link>https://iampradiptaghosh.github.io/tag/wsn/</link>
+    </image>
+    
+    <item>
+      <title>Efficient Low Power Routing for Internet of Things</title>
+      <link>https://iampradiptaghosh.github.io/project/wsn/</link>
+      <pubDate>Wed, 05 Jul 2017 10:52:22 -0700</pubDate>
+      <guid>https://iampradiptaghosh.github.io/project/wsn/</guid>
+      <description>&lt;p&gt;This project includes three sub-projects.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Heat Diffusion Collection Protocol Implementation for Energy Efficient Data Collection in any IoT Network:&lt;/strong&gt;
+Developed and implemented a practical version of a theoretical Back-pressure routing algorithm called the Heat Diffusion (HD) algorithm in the Contiki OS. We refer to this algorithm as the Heat Diffusion Collection Protocol (HDCP). I analyzed its performance for a varying set of network conditions in static settings in a 100 node testbed called the Tutornet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Distributed Hole Detection Methods in IoT and WSN:&lt;/strong&gt;
+Developed distributed techniques for hole detection in a WSN that are based on popular computation geometry tools such as Delaunay triangulation of the underlying communication graph and a graph&amp;rsquo;s Gaussian curvature.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;IoTSC Testbed:&lt;/strong&gt;  I am also a key member of a campus-wide IoT testbed deployment initiative by the USC Autonomous Networks Research Group (ANRG) and the USC Viterbi Center for CPS and IoT (CCI). The testbed, currently referred to as IoTSC, aims to deploy 50 Raspberry Pi-based IoT boxes across the USC Park Campus for IoT related experimentation purposes. Each box is equipped with a range of sensors, such as temperature, gas, and humidity sensors, and at least three different communication stacks (Bluetooth, WiFi, and 802.15.4). Many of the nodes are also equipped with SDRs (USRP b200 mini and HackRF) and LoRa radios.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate Research Project on Wireless Sensor Networks</title>
+      <link>https://iampradiptaghosh.github.io/project/undergraduate/</link>
+      <pubDate>Thu, 05 Jul 2012 10:52:14 -0700</pubDate>
+      <guid>https://iampradiptaghosh.github.io/project/undergraduate/</guid>
+      <description>&lt;p&gt;Contributed to the field of Wireless Sensor Network by developing&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Handoff Reduction Algorithms in WLAN, Mobile Communication Systems and Low Earth Orbit Satellites&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Clustering Methods in Wireless Sensor Network by Proper Utilization of the Available Energy and Predefined Parameters and Hybridization of Various Clustering Algorithms in Wireless Sensor Networks to Develop a New Improved Algorithm&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

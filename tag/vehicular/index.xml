@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vehicular | Pradipta Ghosh</title>
+    <link>https://iampradiptaghosh.github.io/tag/vehicular/</link>
+      <atom:link href="https://iampradiptaghosh.github.io/tag/vehicular/index.xml" rel="self" type="application/rss+xml" />
+    <description>vehicular</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Fri, 05 Jul 2013 10:51:45 -0700</lastBuildDate>
+    <image>
+      <url>https://iampradiptaghosh.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>vehicular</title>
+      <link>https://iampradiptaghosh.github.io/tag/vehicular/</link>
+    </image>
+    
+    <item>
+      <title>Cloud Computing and Application Offloading for Vehicular Networks</title>
+      <link>https://iampradiptaghosh.github.io/project/internship_gm/</link>
+      <pubDate>Fri, 05 Jul 2013 10:51:45 -0700</pubDate>
+      <guid>https://iampradiptaghosh.github.io/project/internship_gm/</guid>
+      <description>&lt;p&gt;Collaborated with the lead research scientist and other engineers to&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Investigate the opportunities and applicability of cloud computing and application offloading in a vehicular network.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Develop a simple system to demonstrate a proof of concept application of computation offloading in vehicular networks.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

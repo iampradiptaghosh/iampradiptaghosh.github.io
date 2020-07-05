@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yutong Gu | Pradipta Ghosh</title>
+    <link>https://iampradiptaghosh.github.io/author/yutong-gu/</link>
+      <atom:link href="https://iampradiptaghosh.github.io/author/yutong-gu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yutong Gu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://iampradiptaghosh.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Yutong Gu</title>
+      <link>https://iampradiptaghosh.github.io/author/yutong-gu/</link>
+    </image>
+    
+    <item>
+      <title>Intelligent robotic iot system (iris) testbed</title>
+      <link>https://iampradiptaghosh.github.io/publication/tran-2018-intelligent/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/tran-2018-intelligent/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

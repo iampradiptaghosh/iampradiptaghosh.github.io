@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hamim Zafar | Pradipta Ghosh</title>
+    <link>https://iampradiptaghosh.github.io/author/hamim-zafar/</link>
+      <atom:link href="https://iampradiptaghosh.github.io/author/hamim-zafar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hamim Zafar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://iampradiptaghosh.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Hamim Zafar</title>
+      <link>https://iampradiptaghosh.github.io/author/hamim-zafar/</link>
+    </image>
+    
+    <item>
+      <title>Adaptive-differential-evolution-based design of two-channel quadrature mirror filter banks for sub-band coding and data transmission</title>
+      <link>https://iampradiptaghosh.github.io/publication/ghosh-2012-adaptive/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/ghosh-2012-adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An efficient memetic algorithm for parameter tuning of PID controller in AVR system</title>
+      <link>https://iampradiptaghosh.github.io/publication/mandal-2011-efficient/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/mandal-2011-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of two-channel quadrature mirror filter banks using differential evolution with global and local neighborhoods</title>
+      <link>https://iampradiptaghosh.github.io/publication/ghosh-2011-design/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/ghosh-2011-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modified local neighborhood based niching particle swarm optimization for multimodal function optimization</title>
+      <link>https://iampradiptaghosh.github.io/publication/ghosh-2011-modified/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/ghosh-2011-modified/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

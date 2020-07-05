@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dimitrios Pylorof | Pradipta Ghosh</title>
+    <link>https://iampradiptaghosh.github.io/author/dimitrios-pylorof/</link>
+      <atom:link href="https://iampradiptaghosh.github.io/author/dimitrios-pylorof/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dimitrios Pylorof</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Sun, 05 Jul 2020 10:49:26 -0700</lastBuildDate>
+    <image>
+      <url>https://iampradiptaghosh.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Dimitrios Pylorof</title>
+      <link>https://iampradiptaghosh.github.io/author/dimitrios-pylorof/</link>
+    </image>
+    
+    <item>
+      <title>Rapid Top-Down Synthesis of Large-Scale IoT Networks</title>
+      <link>https://iampradiptaghosh.github.io/publication/ghosh-2020-synthesis/</link>
+      <pubDate>Sun, 05 Jul 2020 10:49:26 -0700</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/ghosh-2020-synthesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

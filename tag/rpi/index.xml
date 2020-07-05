@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rpi | Pradipta Ghosh</title>
+    <link>https://iampradiptaghosh.github.io/tag/rpi/</link>
+      <atom:link href="https://iampradiptaghosh.github.io/tag/rpi/index.xml" rel="self" type="application/rss+xml" />
+    <description>rpi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Fri, 05 Jul 2019 10:51:31 -0700</lastBuildDate>
+    <image>
+      <url>https://iampradiptaghosh.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>rpi</title>
+      <link>https://iampradiptaghosh.github.io/tag/rpi/</link>
+    </image>
+    
+    <item>
+      <title>Dispersed Mobile Computing for Edge Devices</title>
+      <link>https://iampradiptaghosh.github.io/project/dcp/</link>
+      <pubDate>Fri, 05 Jul 2019 10:51:31 -0700</pubDate>
+      <guid>https://iampradiptaghosh.github.io/project/dcp/</guid>
+      <description>&lt;p&gt;This project is on the cutting edge field of &lt;em&gt;Dispersed Computing&lt;/em&gt; and focused on leveraging all the available computation resources in the communication path from an end device to a cloud (including processing capable routers) for timely and optimized processing of the data by jointly optimizing the computation costs and the communication overhead costs.  A key challenge of this project is the implementation of a Python-based dispersed computing system that would real-time monitor the network traffic and available computation capable node resources to optimally distribute the execution of a networked set of tasks which can be represented as a Directed Acyclic Graph (DAG) task graph. My main contributions to this project involve but not limited to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Design and development of a 50 node Raspberry PI 3 cluster with Kubernetes (a docker orchestration tool) support.&lt;/li&gt;
+&lt;li&gt;Implementation of a Kubernetes cluster of 100 carefully chosen geographically distributed cloud Virtual Machines from Digital Ocean.&lt;/li&gt;
+&lt;li&gt;Development of the Jupiter Orchestrator which is a Kubernetes based open-source customized docker orchestration tool for Dispersed Computing. The Jupiter tool consists of three main components of Dispersed Computing i.e, Profilers (Network and Resource), Scheduler of DAG-based tasks, and CIRCE &amp;ndash; dispatcher of the tasks according to the scheduler outputs and handler of the inter-task communication.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thomas Watteyne | Pradipta Ghosh</title>
+    <link>https://iampradiptaghosh.github.io/author/thomas-watteyne/</link>
+      <atom:link href="https://iampradiptaghosh.github.io/author/thomas-watteyne/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thomas Watteyne</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://iampradiptaghosh.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Thomas Watteyne</title>
+      <link>https://iampradiptaghosh.github.io/author/thomas-watteyne/</link>
+    </image>
+    
+    <item>
+      <title>Competition: Reliability through Timeslotted Channel Hopping and Flooding-based Routing.</title>
+      <link>https://iampradiptaghosh.github.io/publication/gomes-2016-competition/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/gomes-2016-competition/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

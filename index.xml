@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pradipta Ghosh</title>
+    <link>https://iampradiptaghosh.github.io/</link>
+      <atom:link href="https://iampradiptaghosh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pradipta Ghosh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Sun, 05 Jul 2020 12:14:19 -0700</lastBuildDate>
+    <image>
+      <url>https://iampradiptaghosh.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Pradipta Ghosh</title>
+      <link>https://iampradiptaghosh.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Persistent Connected Power Constrained Surveillance with Unmanned Aerial Vehicles</title>
+      <link>https://iampradiptaghosh.github.io/publication/ghosh_2020_persistent/</link>
+      <pubDate>Sun, 05 Jul 2020 12:14:19 -0700</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/ghosh_2020_persistent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensing in Smart Cities</title>
+      <link>https://iampradiptaghosh.github.io/project/smartcity/</link>
+      <pubDate>Sun, 05 Jul 2020 10:51:59 -0700</pubDate>
+      <guid>https://iampradiptaghosh.github.io/project/smartcity/</guid>
+      <description>&lt;p&gt;This ongoing research can be categorized into three categories: Sensing Smart City Resources (e.g., public cameras), Network Synthesis, and Cross Camera Activity Detection.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Sensing Smart City Resources:&lt;/strong&gt; This  category of the research focuses on automatically identifying and characterizing a wide range of sensors (cameras, microphones) in a Large City that we can leverage for many applications such as search and rescue missions, personalized fine-grain navigation, and autonomous driving assistance.
+&lt;img src=&#34;https://iampradiptaghosh.github.io/img/sensecam.png&#34; alt=&#34;smartcity&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Network Synthesis:&lt;/strong&gt; The second part of the research focus on optimal usage of these public resources in smart city applications by forming an optimized network with them. For example, assume that we need an area to be monitored constantly during a search and rescue mission. In that case, we might have either a lot of unnecessary cameras or might have less than the required number of cameras already present. Building upon modern constrained optimization techniques, we are working on developing techniques that can subselect the optimal set of sensors as well as inform us if more sensors need to be deployed. If more sensors are required to be deployed, the method also outputs what are the best locations to place them.
+&lt;img src=&#34;https://iampradiptaghosh.github.io/img/synthesis.png&#34; alt=&#34;synthesis&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Cross Camera Activity Detection:&lt;/strong&gt; The third part of research focus on detecting complex activities in smart cities. A complex activity can be “a person getting off an car then smoking then talking to another person and walking together”. While a human can easily interpret these actions, for a machine it is very hard to automatically detect such activity. In addition, if these actions occur across multiple cameras i.e., some part of the activity in one camera and the other in a different camera, then it is even a tougher problem. We have developed a system that can perform cross camera activity detection.
+&lt;img src=&#34;https://iampradiptaghosh.github.io/img/caeser.gif&#34; alt=&#34;caeser&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rapid Top-Down Synthesis of Large-Scale IoT Networks</title>
+      <link>https://iampradiptaghosh.github.io/publication/ghosh-2020-synthesis/</link>
+      <pubDate>Sun, 05 Jul 2020 10:49:26 -0700</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/ghosh-2020-synthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Frontiers in IoT: Networking, Systems, Reliability, and Security Challenges</title>
+      <link>https://iampradiptaghosh.github.io/publication/bagchi-2020-new/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/bagchi-2020-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Localizing a Camera from a Single Image</title>
+      <link>https://iampradiptaghosh.github.io/publication/ghosh-2020-localizing/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/ghosh-2020-localizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dispersed Mobile Computing for Edge Devices</title>
+      <link>https://iampradiptaghosh.github.io/project/dcp/</link>
+      <pubDate>Fri, 05 Jul 2019 10:51:31 -0700</pubDate>
+      <guid>https://iampradiptaghosh.github.io/project/dcp/</guid>
+      <description>&lt;p&gt;This project is on the cutting edge field of &lt;em&gt;Dispersed Computing&lt;/em&gt; and focused on leveraging all the available computation resources in the communication path from an end device to a cloud (including processing capable routers) for timely and optimized processing of the data by jointly optimizing the computation costs and the communication overhead costs.  A key challenge of this project is the implementation of a Python-based dispersed computing system that would real-time monitor the network traffic and available computation capable node resources to optimally distribute the execution of a networked set of tasks which can be represented as a Directed Acyclic Graph (DAG) task graph. My main contributions to this project involve but not limited to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Design and development of a 50 node Raspberry PI 3 cluster with Kubernetes (a docker orchestration tool) support.&lt;/li&gt;
+&lt;li&gt;Implementation of a Kubernetes cluster of 100 carefully chosen geographically distributed cloud Virtual Machines from Digital Ocean.&lt;/li&gt;
+&lt;li&gt;Development of the Jupiter Orchestrator which is a Kubernetes based open-source customized docker orchestration tool for Dispersed Computing. The Jupiter tool consists of three main components of Dispersed Computing i.e, Profilers (Network and Resource), Scheduler of DAG-based tasks, and CIRCE &amp;ndash; dispatcher of the tasks according to the scheduler outputs and handler of the inter-task communication.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ARREST: A RSSI Based Approach for Mobile Sensing and Tracking of a Moving Object</title>
+      <link>https://iampradiptaghosh.github.io/publication/ghosh-2019-arrest/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/ghosh-2019-arrest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Caesar: cross-camera complex activity recognition</title>
+      <link>https://iampradiptaghosh.github.io/publication/liu-2019-caesar/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/liu-2019-caesar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Container Orchestration for Dispersed Computing</title>
+      <link>https://iampradiptaghosh.github.io/publication/ghosh-2019-container/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/ghosh-2019-container/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jupiter: A Networked Computing Architecture</title>
+      <link>https://iampradiptaghosh.github.io/publication/ghosh-2019-jupiter/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/ghosh-2019-jupiter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robotic wireless sensor networks</title>
+      <link>https://iampradiptaghosh.github.io/publication/ghosh-2019-robotic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/ghosh-2019-robotic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>miniRadar: A Low Power IEEE 802.15.4 Transceiver Based Implementation of Bistatic Radar</title>
+      <link>https://iampradiptaghosh.github.io/talk/ita2018/</link>
+      <pubDate>Fri, 02 Nov 2018 13:26:15 -0700</pubDate>
+      <guid>https://iampradiptaghosh.github.io/talk/ita2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wireless Robotic IoT Systems</title>
+      <link>https://iampradiptaghosh.github.io/project/rwsn/</link>
+      <pubDate>Thu, 05 Jul 2018 10:51:51 -0700</pubDate>
+      <guid>https://iampradiptaghosh.github.io/project/rwsn/</guid>
+      <description>&lt;p&gt;This umbrella projects includes many sub-projects as follows.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Survey of Networking Issues and Potential areas of Research in a Wireless Network of Mobile Robots&lt;/strong&gt;
+&lt;img src=&#34;https://iampradiptaghosh.github.io/img/robo_sensor_illustration_new.png&#34; alt=&#34;robot&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;ARREST&amp;ndash;A RSSI Based Approach for Relative Positioning and  Tracking of a Moving Object:&lt;/strong&gt;
+Developed a new robotic sensing system for tracking/following a moving, RF-emitting object (Leader) solely based on signal strength information. The tracking robot (TrackBot) uses a single rotating, off-the-shelf, directional antenna, novel angle and relative speed estimation algorithms, and Kalman filtering.  A full-fledged prototype system is built for extensive real-world evaluation and to demonstrate the performance.
+&lt;img src=&#34;https://iampradiptaghosh.github.io/img/robot_sch.jpg&#34; alt=&#34;robot&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;IRIS&amp;ndash;A Robotic Wireless Networking Testbed:&lt;/strong&gt;
+Designed the architecture of the Intelligent Robotic IoT System (IRIS) testbed which is envisioned as an in-house, cutting-edge, open source testbed for robotic network related experimentation.
+Co-lead a team of six researchers to build the current version of the testbed that consists of 7 mobile easily configurable Pololu 3pi robotic nodes with IEEE 802.15.4 connectivity via an onboard OpenMote and Mbed LPC1768 devices.
+&lt;img src=&#34;https://iampradiptaghosh.github.io/img/iris.jpg&#34; alt=&#34;robot&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;ROMANO&amp;ndash;Overlay Lightweight Communication Protocol for Unified Control and Sensing of a Network of Robots:&lt;/strong&gt;
+Developed and implemented (on the IRIS testbed) the ROMANO protocol, an end-to-end overlay communication protocol for a simple unified abstraction of real-time data sharing and robotic control in a network of robots. This is a lightweight, application layer publish-subscribe protocol that is an alternative to the XML-RPC  based bandwidth-heavy communication in Robot Operating System (ROS).
+&lt;img src=&#34;https://iampradiptaghosh.github.io/img/romano_archi.jpg&#34; alt=&#34;router&#34;&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Robotic Router Placement Optimization Based on Practical Communication Model Including Interference:&lt;/strong&gt;
+Theoretically modeled and simulated an optimized robotic router placement algorithm that incorporates the effect of RF interference.                      &lt;br&gt;
+Moreover, modeled certain theoretical performance bounds of such systems such as interference power bound.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://iampradiptaghosh.github.io/img/robo_router_illustration_new.jpg&#34; alt=&#34;router&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>End-to-End Network Performance Monitoring for Dispersed Computing</title>
+      <link>https://iampradiptaghosh.github.io/publication/nguyen-2018-end/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/nguyen-2018-end/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intelligent robotic iot system (iris) testbed</title>
+      <link>https://iampradiptaghosh.github.io/publication/tran-2018-intelligent/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/tran-2018-intelligent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wave: A distributed scheduling framework for dispersed computing</title>
+      <link>https://iampradiptaghosh.github.io/publication/sakulkar-2018-wave/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/sakulkar-2018-wave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Low Power Routing for Internet of Things</title>
+      <link>https://iampradiptaghosh.github.io/project/wsn/</link>
+      <pubDate>Wed, 05 Jul 2017 10:52:22 -0700</pubDate>
+      <guid>https://iampradiptaghosh.github.io/project/wsn/</guid>
+      <description>&lt;p&gt;This project includes three sub-projects.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Heat Diffusion Collection Protocol Implementation for Energy Efficient Data Collection in any IoT Network:&lt;/strong&gt;
+Developed and implemented a practical version of a theoretical Back-pressure routing algorithm called the Heat Diffusion (HD) algorithm in the Contiki OS. We refer to this algorithm as the Heat Diffusion Collection Protocol (HDCP). I analyzed its performance for a varying set of network conditions in static settings in a 100 node testbed called the Tutornet.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Distributed Hole Detection Methods in IoT and WSN:&lt;/strong&gt;
+Developed distributed techniques for hole detection in a WSN that are based on popular computation geometry tools such as Delaunay triangulation of the underlying communication graph and a graph&amp;rsquo;s Gaussian curvature.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;IoTSC Testbed:&lt;/strong&gt;  I am also a key member of a campus-wide IoT testbed deployment initiative by the USC Autonomous Networks Research Group (ANRG) and the USC Viterbi Center for CPS and IoT (CCI). The testbed, currently referred to as IoTSC, aims to deploy 50 Raspberry Pi-based IoT boxes across the USC Park Campus for IoT related experimentation purposes. Each box is equipped with a range of sensors, such as temperature, gas, and humidity sensors, and at least three different communication stacks (Bluetooth, WiFi, and 802.15.4). Many of the nodes are also equipped with SDRs (USRP b200 mini and HackRF) and LoRa radios.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CIRCE-a runtime scheduler for DAG-based dispersed computing</title>
+      <link>https://iampradiptaghosh.github.io/publication/knezevic-2017-circe/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/knezevic-2017-circe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Empirical evaluation of the heat-diffusion collection protocol for wireless sensor networks</title>
+      <link>https://iampradiptaghosh.github.io/publication/ghosh-2017-empirical/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/ghosh-2017-empirical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interference power bound analysis of a network of wireless robots</title>
+      <link>https://iampradiptaghosh.github.io/publication/ghosh-2017-interference/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/ghosh-2017-interference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LOCO: A Location Based Communication Scheme.</title>
+      <link>https://iampradiptaghosh.github.io/publication/ghosh-2017-loco/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/ghosh-2017-loco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>miniRadar: A Low Power IEEE 802.15. 4 Transceiver Based Implementation of Bistatic Radar</title>
+      <link>https://iampradiptaghosh.github.io/publication/ghosh-2017-miniradar/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/ghosh-2017-miniradar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Romano: A novel overlay lightweight communication protocol for unified control and sensing of a network of robots</title>
+      <link>https://iampradiptaghosh.github.io/publication/ghosh-2017-romano/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/ghosh-2017-romano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Competition: Reliability through Timeslotted Channel Hopping and Flooding-based Routing.</title>
+      <link>https://iampradiptaghosh.github.io/publication/gomes-2016-competition/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/gomes-2016-competition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Controllability of Wireless Network Quality using Mobile Robotic Routers</title>
+      <link>https://iampradiptaghosh.github.io/publication/ghosh-2016-towards/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/ghosh-2016-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integration of Bare-metal Servers with Programmable Fabric </title>
+      <link>https://iampradiptaghosh.github.io/project/internship_cisco/</link>
+      <pubDate>Sun, 05 Jul 2015 10:51:40 -0700</pubDate>
+      <guid>https://iampradiptaghosh.github.io/project/internship_cisco/</guid>
+      <description>&lt;p&gt;Collaborated with the lead system architect and other engineers to&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Integrate bare-metal servers with OpenStack for CISCO programmable fabric. This involved the design of a new system architecture for seamless deployment of bare-metals side-by-side with the Virtual Machines. This system was converted into a product later on.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Participate in the discussions of the Openstack open-source community and their chat rooms to determine the right course of actions.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Distributed hole detection algorithms for wireless sensor networks</title>
+      <link>https://iampradiptaghosh.github.io/publication/ghosh-2014-distributed/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/ghosh-2014-distributed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Riverswarm: Topology-aware distributed planning for obstacle encirclement in connected robotic swarms</title>
+      <link>https://iampradiptaghosh.github.io/publication/ghosh-2014-riverswarm/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/ghosh-2014-riverswarm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud Computing and Application Offloading for Vehicular Networks</title>
+      <link>https://iampradiptaghosh.github.io/project/internship_gm/</link>
+      <pubDate>Fri, 05 Jul 2013 10:51:45 -0700</pubDate>
+      <guid>https://iampradiptaghosh.github.io/project/internship_gm/</guid>
+      <description>&lt;p&gt;Collaborated with the lead research scientist and other engineers to&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Investigate the opportunities and applicability of cloud computing and application offloading in a vehicular network.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Develop a simple system to demonstrate a proof of concept application of computation offloading in vehicular networks.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate Research Project on Optimizations and Evolutionary Algorithms</title>
+      <link>https://iampradiptaghosh.github.io/project/undergraduate_2/</link>
+      <pubDate>Thu, 05 Jul 2012 10:52:17 -0700</pubDate>
+      <guid>https://iampradiptaghosh.github.io/project/undergraduate_2/</guid>
+      <description>&lt;p&gt;Developed a set of optimization tools to contribute the field of evolutionary algorithms such as Genetic Algorithm (GE) and Particle Swarm Optimization (PSO) and applied them toward solving complex real world problems. This project involved&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Hybridization of Various Unimodal &amp;amp; Multi-modal Optimization Algorithms to Develop New Improved Algorithms&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Study of Various Evolutionary Algorithms in Optimizing Antenna Structures  and Antenna Array Design Using Optimization Algorithms Like DE and PSO&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Undergraduate Research Project on Wireless Sensor Networks</title>
+      <link>https://iampradiptaghosh.github.io/project/undergraduate/</link>
+      <pubDate>Thu, 05 Jul 2012 10:52:14 -0700</pubDate>
+      <guid>https://iampradiptaghosh.github.io/project/undergraduate/</guid>
+      <description>&lt;p&gt;Contributed to the field of Wireless Sensor Network by developing&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Handoff Reduction Algorithms in WLAN, Mobile Communication Systems and Low Earth Orbit Satellites&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Clustering Methods in Wireless Sensor Network by Proper Utilization of the Available Energy and Predefined Parameters and Hybridization of Various Clustering Algorithms in Wireless Sensor Networks to Develop a New Improved Algorithm&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adaptive-differential-evolution-based design of two-channel quadrature mirror filter banks for sub-band coding and data transmission</title>
+      <link>https://iampradiptaghosh.github.io/publication/ghosh-2012-adaptive/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/ghosh-2012-adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An efficient memetic algorithm for parameter tuning of PID controller in AVR system</title>
+      <link>https://iampradiptaghosh.github.io/publication/mandal-2011-efficient/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/mandal-2011-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An optimized reduced energy consumption (OREC) algorithm for routing in wireless sensor networks</title>
+      <link>https://iampradiptaghosh.github.io/publication/banerjee-2011-optimized/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/banerjee-2011-optimized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of two-channel quadrature mirror filter banks using differential evolution with global and local neighborhoods</title>
+      <link>https://iampradiptaghosh.github.io/publication/ghosh-2011-design/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/ghosh-2011-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modified local neighborhood based niching particle swarm optimization for multimodal function optimization</title>
+      <link>https://iampradiptaghosh.github.io/publication/ghosh-2011-modified/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/ghosh-2011-modified/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of thinned planar concentric circular antenna arrays---A differential evolutionary approach</title>
+      <link>https://iampradiptaghosh.github.io/publication/ghosh-2011-synthesis/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/ghosh-2011-synthesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

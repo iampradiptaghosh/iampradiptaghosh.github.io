@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Pradipta Ghosh</title>
+    <link>https://iampradiptaghosh.github.io/publication-type/2/</link>
+      <atom:link href="https://iampradiptaghosh.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://iampradiptaghosh.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://iampradiptaghosh.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>New Frontiers in IoT: Networking, Systems, Reliability, and Security Challenges</title>
+      <link>https://iampradiptaghosh.github.io/publication/bagchi-2020-new/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/bagchi-2020-new/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ARREST: A RSSI Based Approach for Mobile Sensing and Tracking of a Moving Object</title>
+      <link>https://iampradiptaghosh.github.io/publication/ghosh-2019-arrest/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/ghosh-2019-arrest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Empirical evaluation of the heat-diffusion collection protocol for wireless sensor networks</title>
+      <link>https://iampradiptaghosh.github.io/publication/ghosh-2017-empirical/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/ghosh-2017-empirical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive-differential-evolution-based design of two-channel quadrature mirror filter banks for sub-band coding and data transmission</title>
+      <link>https://iampradiptaghosh.github.io/publication/ghosh-2012-adaptive/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/ghosh-2012-adaptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of thinned planar concentric circular antenna arrays---A differential evolutionary approach</title>
+      <link>https://iampradiptaghosh.github.io/publication/ghosh-2011-synthesis/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/ghosh-2011-synthesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

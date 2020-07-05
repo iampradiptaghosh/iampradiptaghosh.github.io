@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Pradipta Ghosh</title>
+    <link>https://iampradiptaghosh.github.io/publication-type/1/</link>
+      <atom:link href="https://iampradiptaghosh.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Sun, 05 Jul 2020 12:14:19 -0700</lastBuildDate>
+    <image>
+      <url>https://iampradiptaghosh.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>https://iampradiptaghosh.github.io/publication-type/1/</link>
+    </image>
+    
+    <item>
+      <title>Persistent Connected Power Constrained Surveillance with Unmanned Aerial Vehicles</title>
+      <link>https://iampradiptaghosh.github.io/publication/ghosh_2020_persistent/</link>
+      <pubDate>Sun, 05 Jul 2020 12:14:19 -0700</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/ghosh_2020_persistent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rapid Top-Down Synthesis of Large-Scale IoT Networks</title>
+      <link>https://iampradiptaghosh.github.io/publication/ghosh-2020-synthesis/</link>
+      <pubDate>Sun, 05 Jul 2020 10:49:26 -0700</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/ghosh-2020-synthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Caesar: cross-camera complex activity recognition</title>
+      <link>https://iampradiptaghosh.github.io/publication/liu-2019-caesar/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/liu-2019-caesar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Container Orchestration for Dispersed Computing</title>
+      <link>https://iampradiptaghosh.github.io/publication/ghosh-2019-container/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/ghosh-2019-container/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>End-to-End Network Performance Monitoring for Dispersed Computing</title>
+      <link>https://iampradiptaghosh.github.io/publication/nguyen-2018-end/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/nguyen-2018-end/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intelligent robotic iot system (iris) testbed</title>
+      <link>https://iampradiptaghosh.github.io/publication/tran-2018-intelligent/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/tran-2018-intelligent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CIRCE-a runtime scheduler for DAG-based dispersed computing</title>
+      <link>https://iampradiptaghosh.github.io/publication/knezevic-2017-circe/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/knezevic-2017-circe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LOCO: A Location Based Communication Scheme.</title>
+      <link>https://iampradiptaghosh.github.io/publication/ghosh-2017-loco/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/ghosh-2017-loco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>miniRadar: A Low Power IEEE 802.15. 4 Transceiver Based Implementation of Bistatic Radar</title>
+      <link>https://iampradiptaghosh.github.io/publication/ghosh-2017-miniradar/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/ghosh-2017-miniradar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Competition: Reliability through Timeslotted Channel Hopping and Flooding-based Routing.</title>
+      <link>https://iampradiptaghosh.github.io/publication/gomes-2016-competition/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/gomes-2016-competition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributed hole detection algorithms for wireless sensor networks</title>
+      <link>https://iampradiptaghosh.github.io/publication/ghosh-2014-distributed/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/ghosh-2014-distributed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Riverswarm: Topology-aware distributed planning for obstacle encirclement in connected robotic swarms</title>
+      <link>https://iampradiptaghosh.github.io/publication/ghosh-2014-riverswarm/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/ghosh-2014-riverswarm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An efficient memetic algorithm for parameter tuning of PID controller in AVR system</title>
+      <link>https://iampradiptaghosh.github.io/publication/mandal-2011-efficient/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/mandal-2011-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An optimized reduced energy consumption (OREC) algorithm for routing in wireless sensor networks</title>
+      <link>https://iampradiptaghosh.github.io/publication/banerjee-2011-optimized/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/banerjee-2011-optimized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of two-channel quadrature mirror filter banks using differential evolution with global and local neighborhoods</title>
+      <link>https://iampradiptaghosh.github.io/publication/ghosh-2011-design/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/ghosh-2011-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modified local neighborhood based niching particle swarm optimization for multimodal function optimization</title>
+      <link>https://iampradiptaghosh.github.io/publication/ghosh-2011-modified/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/ghosh-2011-modified/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

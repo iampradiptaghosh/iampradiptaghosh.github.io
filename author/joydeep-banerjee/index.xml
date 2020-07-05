@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joydeep Banerjee | Pradipta Ghosh</title>
+    <link>https://iampradiptaghosh.github.io/author/joydeep-banerjee/</link>
+      <atom:link href="https://iampradiptaghosh.github.io/author/joydeep-banerjee/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joydeep Banerjee</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://iampradiptaghosh.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Joydeep Banerjee</title>
+      <link>https://iampradiptaghosh.github.io/author/joydeep-banerjee/</link>
+    </image>
+    
+    <item>
+      <title>An optimized reduced energy consumption (OREC) algorithm for routing in wireless sensor networks</title>
+      <link>https://iampradiptaghosh.github.io/publication/banerjee-2011-optimized/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/banerjee-2011-optimized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of two-channel quadrature mirror filter banks using differential evolution with global and local neighborhoods</title>
+      <link>https://iampradiptaghosh.github.io/publication/ghosh-2011-design/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/ghosh-2011-design/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ankush Mandal | Pradipta Ghosh</title>
+    <link>https://iampradiptaghosh.github.io/author/ankush-mandal/</link>
+      <atom:link href="https://iampradiptaghosh.github.io/author/ankush-mandal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ankush Mandal</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://iampradiptaghosh.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Ankush Mandal</title>
+      <link>https://iampradiptaghosh.github.io/author/ankush-mandal/</link>
+    </image>
+    
+    <item>
+      <title>An efficient memetic algorithm for parameter tuning of PID controller in AVR system</title>
+      <link>https://iampradiptaghosh.github.io/publication/mandal-2011-efficient/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/mandal-2011-efficient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modified local neighborhood based niching particle swarm optimization for multimodal function optimization</title>
+      <link>https://iampradiptaghosh.github.io/publication/ghosh-2011-modified/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://iampradiptaghosh.github.io/publication/ghosh-2011-modified/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
