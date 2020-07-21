@@ -5,12 +5,53 @@
     <link>https://iampradiptaghosh.github.io/</link>
       <atom:link href="https://iampradiptaghosh.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Pradipta Ghosh</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Sun, 05 Jul 2020 12:14:19 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020</copyright><lastBuildDate>Tue, 21 Jul 2020 10:29:33 -0700</lastBuildDate>
     <image>
       <url>https://iampradiptaghosh.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Pradipta Ghosh</title>
       <link>https://iampradiptaghosh.github.io/</link>
     </image>
+    
+    <item>
+      <title>Infrastructure LiDAR Sensing</title>
+      <link>https://iampradiptaghosh.github.io/project/infra_lidar/</link>
+      <pubDate>Tue, 21 Jul 2020 10:29:33 -0700</pubDate>
+      <guid>https://iampradiptaghosh.github.io/project/infra_lidar/</guid>
+      <description>&lt;h2 id=&#34;why-infrastructure-lidar&#34;&gt;&lt;strong&gt;Why Infrastructure LiDAR?&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Future Cities will have LiDAR in the road intersections or on the side of a road.
+Infrastructure LiDAR can augment autonomous driving and can provide lot more fine grain surveillance.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://iampradiptaghosh.github.io/img/whyinfra.png&#34; alt=&#34;infra&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;our-objectives&#34;&gt;&lt;strong&gt;Our Objectives&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;We are working on deveoping novel point cloud registration algorithms for infrastructure LiDARs (with different locations and orientations) as well as algorithms for fine-grain vehicle tracking using a stitched point cloud to augment autonomous driving.&lt;/p&gt;
+&lt;h3 id=&#34;point-cloud-registration-combining-multiple-lidar-data&#34;&gt;Point Cloud Registration (Combining multiple LiDAR data):&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;A single LiDAR can not provide complete information due to line-of-sight blocking, range, and FoV&lt;/li&gt;
+&lt;li&gt;A single LIDAR data can be very sparse and can miss objects.&lt;/li&gt;
+&lt;li&gt;Multiple spatially distributed LiDAR data, once combined, will have more complete information.
+&lt;img src=&#34;https://iampradiptaghosh.github.io/img/infra1.png&#34; alt=&#34;infra&#34;&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We are working on deveoping novel point cloud registration algorithms for infrastructure LiDARs (with different locations and orientations).
+&lt;img src=&#34;https://iampradiptaghosh.github.io/img/infra2.png&#34; alt=&#34;infra&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;detecting-and-tracking-object&#34;&gt;Detecting and Tracking Object&lt;/h3&gt;
+&lt;p&gt;LiDAR only generate a point cloud for objects without any info on&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Whether the two points belong to the same objects?&lt;/li&gt;
+&lt;li&gt;What type of object is it?&lt;/li&gt;
+&lt;li&gt;What are some unique identifiers?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;We are working on fine-grain localization and tracking of vehicles using a stitched point cloud to augment autonomous driving; we leverage couple of common facts:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;LiDAR can distinguish between static and dynamic objects.&lt;/li&gt;
+&lt;li&gt;For two consecutive frames:
+&lt;ul&gt;
+&lt;li&gt;Points related to static objects will remain mostly unchanged&lt;/li&gt;
+&lt;li&gt;Points related to dynamic objects will move.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;iframe src=&#34;https://drive.google.com/file/d/1ByhasrYdx8P3X17XoZPJIbxrAcdbYyxd/preview&#34; width=&#34;640&#34; height=&#34;480&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
     
     <item>
       <title>Persistent Connected Power Constrained Surveillance with Unmanned Aerial Vehicles</title>
