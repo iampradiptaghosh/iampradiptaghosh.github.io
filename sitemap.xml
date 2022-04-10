@@ -1,589 +1,358 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://iampradiptaghosh.github.io/publication-type/1/</loc>
-    <lastmod>2020-07-05T16:53:40-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iampradiptaghosh.github.io/authors/</loc>
-    <lastmod>2020-07-28T14:51:05-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iampradiptaghosh.github.io/author/gaurav-s.-sukhatme/</loc>
-    <lastmod>2020-07-05T16:53:40-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iampradiptaghosh.github.io/author/paulo-tabuada/</loc>
-    <lastmod>2020-07-05T16:53:40-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iampradiptaghosh.github.io/publication/ghosh_2020_persistent/</loc>
-    <lastmod>2020-07-05T16:53:40-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iampradiptaghosh.github.io/author/pradipta-ghosh/</loc>
-    <lastmod>2020-07-05T16:53:40-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iampradiptaghosh.github.io/</loc>
-    <lastmod>2020-07-28T14:51:05-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iampradiptaghosh.github.io/publication_types/</loc>
-    <lastmod>2020-07-05T16:53:40-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iampradiptaghosh.github.io/author/ramesh-govindan/</loc>
-    <lastmod>2020-07-05T16:53:40-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iampradiptaghosh.github.io/tag/iot/</loc>
-    <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iampradiptaghosh.github.io/project/</loc>
-    <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iampradiptaghosh.github.io/project/smartcity/</loc>
-    <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iampradiptaghosh.github.io/tags/</loc>
-    <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iampradiptaghosh.github.io/tag/vision/</loc>
-    <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iampradiptaghosh.github.io/author/dimitrios-pylorof/</loc>
-    <lastmod>2020-07-05T16:53:40-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iampradiptaghosh.github.io/author/gaurav-sukhatme/</loc>
-    <lastmod>2020-07-05T16:53:40-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iampradiptaghosh.github.io/author/gunjan-verma/</loc>
-    <lastmod>2020-07-05T16:53:40-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iampradiptaghosh.github.io/author/jonathan-bunton/</loc>
-    <lastmod>2020-07-05T16:53:40-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iampradiptaghosh.github.io/author/kevin-chan/</loc>
-    <lastmod>2020-07-05T16:53:40-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iampradiptaghosh.github.io/author/marcos-vieira/</loc>
-    <lastmod>2020-07-05T16:53:40-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://iampradiptaghosh.github.io/publication/ghosh-2020-synthesis/</loc>
-    <lastmod>2020-07-05T16:53:40-07:00</lastmod>
-  </url>
-  
   <url>
     <loc>https://iampradiptaghosh.github.io/publication-type/2/</loc>
+    <lastmod>2021-07-26T10:49:26-07:00</lastmod>
+  </url><url>
+    <loc>https://iampradiptaghosh.github.io/authors/</loc>
+    <lastmod>2022-04-10T15:03:26-07:00</lastmod>
+  </url><url>
+    <loc>https://iampradiptaghosh.github.io/author/dimitrios-pylorof/</loc>
+    <lastmod>2021-07-26T10:49:26-07:00</lastmod>
+  </url><url>
+    <loc>https://iampradiptaghosh.github.io/author/gaurav-sukhatme/</loc>
+    <lastmod>2021-07-26T10:49:26-07:00</lastmod>
+  </url><url>
+    <loc>https://iampradiptaghosh.github.io/author/gunjan-verma/</loc>
+    <lastmod>2021-07-26T10:49:26-07:00</lastmod>
+  </url><url>
+    <loc>https://iampradiptaghosh.github.io/author/jonathan-bunton/</loc>
+    <lastmod>2021-07-26T10:49:26-07:00</lastmod>
+  </url><url>
+    <loc>https://iampradiptaghosh.github.io/author/kevin-chan/</loc>
+    <lastmod>2021-07-26T10:49:26-07:00</lastmod>
+  </url><url>
+    <loc>https://iampradiptaghosh.github.io/author/marcos-vieira/</loc>
+    <lastmod>2021-07-26T10:49:26-07:00</lastmod>
+  </url><url>
+    <loc>https://iampradiptaghosh.github.io/author/paulo-tabuada/</loc>
+    <lastmod>2021-07-26T10:49:26-07:00</lastmod>
+  </url><url>
+    <loc>https://iampradiptaghosh.github.io/author/pradipta-ghosh/</loc>
+    <lastmod>2021-07-26T10:49:26-07:00</lastmod>
+  </url><url>
+    <loc>https://iampradiptaghosh.github.io/</loc>
+    <lastmod>2022-04-10T15:03:26-07:00</lastmod>
+  </url><url>
+    <loc>https://iampradiptaghosh.github.io/publication_types/</loc>
+    <lastmod>2021-07-26T10:49:26-07:00</lastmod>
+  </url><url>
+    <loc>https://iampradiptaghosh.github.io/author/ramesh-govindan/</loc>
+    <lastmod>2021-07-26T10:49:26-07:00</lastmod>
+  </url><url>
+    <loc>https://iampradiptaghosh.github.io/publication/ghosh-2021-synthesis/</loc>
+    <lastmod>2021-07-26T10:49:26-07:00</lastmod>
+  </url><url>
+    <loc>https://iampradiptaghosh.github.io/publication-type/1/</loc>
     <lastmod>2020-07-05T16:53:40-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://iampradiptaghosh.github.io/author/gaurav-s.-sukhatme/</loc>
+    <lastmod>2020-07-05T16:53:40-07:00</lastmod>
+  </url><url>
+    <loc>https://iampradiptaghosh.github.io/publication/ghosh_2020_persistent/</loc>
+    <lastmod>2020-07-05T16:53:40-07:00</lastmod>
+  </url><url>
+    <loc>https://iampradiptaghosh.github.io/tag/iot/</loc>
+    <lastmod>2020-07-05T13:03:46-07:00</lastmod>
+  </url><url>
+    <loc>https://iampradiptaghosh.github.io/project/</loc>
+    <lastmod>2020-07-05T13:03:46-07:00</lastmod>
+  </url><url>
+    <loc>https://iampradiptaghosh.github.io/project/smartcity/</loc>
+    <lastmod>2020-07-05T13:03:46-07:00</lastmod>
+  </url><url>
+    <loc>https://iampradiptaghosh.github.io/tags/</loc>
+    <lastmod>2020-07-05T13:03:46-07:00</lastmod>
+  </url><url>
+    <loc>https://iampradiptaghosh.github.io/tag/vision/</loc>
+    <lastmod>2020-07-05T13:03:46-07:00</lastmod>
+  </url><url>
+    <loc>https://iampradiptaghosh.github.io/publication/ghosh-2020-synthesis/</loc>
+    <lastmod>2020-07-05T16:53:40-07:00</lastmod>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/publication-type/3/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/akanksha-atrey/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/hang-qiu/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/marcos-a.-m.-vieira/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/publication/bagchi-2020-new/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/publication/ghosh-2020-localizing/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/prashant-shenoy/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/ran-xu/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/saurabh-bagchi/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/tarek-f-abdelzaher/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/xiaochen-liu/</loc>
     <lastmod>2020-07-05T16:53:40-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/tag/cloud-computing/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/project/dcp/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/tag/rpi/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/publication-type/6/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/aleksandra-knezevic/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/andrea-gasparri/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/publication/ghosh-2019-arrest/</loc>
     <lastmod>2020-07-05T16:53:40-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/bhaskar-krishnamachari/</loc>
     <lastmod>2020-07-05T16:53:40-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/bs-manjunath/</loc>
     <lastmod>2020-07-05T16:53:40-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/publication/liu-2019-caesar/</loc>
     <lastmod>2020-07-05T16:53:40-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/publication/ghosh-2019-container/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/jason-a-tran/</loc>
     <lastmod>2020-07-05T16:53:40-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/jiatong-wang/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/jiong-jin/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/publication/ghosh-2019-jupiter/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/murali-annavaram/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/oytun-ulutan/</loc>
     <lastmod>2020-07-05T16:53:40-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/pranav-k-sakulkar/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/quynh-nguyen/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/publication/ghosh-2019-robotic/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/salman-avestimehr/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/zhifeng-lin/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/talk/ita2018/</loc>
     <lastmod>2020-07-05T16:53:40-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/tag/rwsn/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/project/rwsn/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/others/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/publication-type/4/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/b-krishnamachari/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/daniel-dsouza/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/publication/nguyen-2018-end/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/publication/tran-2018-intelligent/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/m-annavaram/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/nora-ayanian/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/pranav-sakulkar/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/richard-kim/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/s-avestimehr/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/publication/sakulkar-2018-wave/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/yutong-gu/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/project/wsn/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/tag/wsn/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/publication/knezevic-2017-circe/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/edmond-jonckheere/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/publication/ghosh-2017-empirical/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/he-ren/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/publication/ghosh-2017-interference/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/jenny-xie/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/publication/ghosh-2017-loco/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/publication/ghosh-2017-miniradar/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/nachikethas-a-jagadeesan/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/reza-banirazi/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/publication/ghosh-2017-romano/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/publication/gomes-2016-competition/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/pedro-henrique-gomes/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/raktim-pal/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/thomas-watteyne/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/publication/ghosh-2016-towards/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/tag/datacenter/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/project/internship_cisco/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/publication/ghosh-2014-distributed/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/jie-gao/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/publication/ghosh-2014-riverswarm/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/project/internship_gm/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/tag/vehicular/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/tag/ai/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/project/undergraduate_2/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/project/undergraduate/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/publication/ghosh-2012-adaptive/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/hamim-zafar/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/swagatam-das/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/ajith-abraham/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/publication/mandal-2011-efficient/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/publication/banerjee-2011-optimized/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/ankush-mandal/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/publication/ghosh-2011-design/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/joydeep-banerjee/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/publication/ghosh-2011-modified/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/mrinal-kanti-naskar/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/swarup-kumar-mitra/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/publication/ghosh-2011-synthesis/</loc>
     <lastmod>2020-07-05T13:03:46-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/post/</loc>
     <lastmod>2019-05-06T17:54:11+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/author/pradipta-ghosh/</loc>
-    <lastmod>2020-07-28T14:51:05-07:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-04-10T15:03:26-07:00</lastmod>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/publication/</loc>
     <lastmod>2019-05-06T17:54:11+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://iampradiptaghosh.github.io/talk/</loc>
     <lastmod>2019-05-06T17:54:11+01:00</lastmod>
   </url>
-  
 </urlset>
